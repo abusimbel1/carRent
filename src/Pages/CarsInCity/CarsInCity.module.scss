@@ -1,0 +1,77 @@
+.CarsInCity{
+    border-radius: 2px;
+}
+$bgColor: #D8D8D8;
+.komfort:active{
+    background-color: red;
+}
+.imgHead{
+    height: 250px;
+    img{
+        width: 100%;
+        max-height: 250px;
+    }
+}
+// .classification button{
+//     border: none;
+//     // border-radius: 20px;
+// }
+.classification{
+    border-radius: 0px;
+
+}
+.CarsInCity div nav{
+    display: flex;
+    justify-content: center;
+    ul li a p{
+        color: black;
+    }
+}
+.filters{
+    width: 100%;
+}
+.classification div input{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 2px solid $bgColor;
+    border-radius: 20px;
+    // border-color: $bgColor;
+    outline-style: none;
+    height: 50px;;
+}
+.searchInput{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    input{
+        padding-left: 20px;
+    }
+}
+
+.filters{
+    height: 50px;
+    display: flex;
+    align-self: center;
+    width: 40%;
+    // margin: 35px 0;
+    margin: 35px 0 0 10%;
+    // margin-top: 35px;
+    // margin-left: 10%;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: $bgColor;
+    justify-content: center;
+    button{
+        margin: 0 5px;
+        border: none;
+        outline-style: none;
+        background-color: $bgColor;
+        width: 100%;
+        border-radius: 20px;
+    }
+}
+.curFilter{
+    margin: 10px 0px 0px 10%;
+    font-size: 25px;
+}

@@ -1,0 +1,18 @@
+.CarouselItem{
+    height: 70vh;
+    width: 100vh;
+    z-index: -1;
+}
+.Carousel div div img{
+    height: 86vh;
+    background: linear-gradient(181.06deg, rgba(0, 0, 0, 0.15) 43.17%, rgba(0, 0, 0, 0.75) 79.05%);
+}
+
+.CarouselItemButton{
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    z-index: 909;
+    // position: absolute;
+    // margin-top: -200px;
+}

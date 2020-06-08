@@ -1,0 +1,44 @@
+.PriceListHead{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 10%;
+    flex-grow: 2;
+    background-color: black;
+    height: 75px;
+    border-radius: 25px;
+    // align-content: center;
+    align-items: center;
+    color: white;
+}
+.pricePerDay{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 3;
+    width: 50%;
+    div{
+        // margin-right:30px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        // font-weight: bold;
+    }
+}   
+.pricePerDay div{
+    width: 25%;
+}
+.pricePerDay div::before{
+    content: "|";
+    margin-right: 30px;
+    color: rgb(221, 133, 17);
+}
+.model{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 35%;
+    font-size: 22px;
+  }  
+  .space{
+      display: flex;
+      width: 15%;
+  }

@@ -1,0 +1,17 @@
+.Reserve{
+    border: 2px solid black;
+}
+.Reserve h1{
+    display: flex;
+    justify-content: center;
+   
+}
+.Reserve h1::before{ 
+    content: "";
+    background: #FF9400;
+    border-radius: 25px;
+    width: 15px;
+    height: 35px;
+    margin-top: 7px;
+    margin-right: 5px;;
+}

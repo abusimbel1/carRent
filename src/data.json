@@ -1,0 +1,257 @@
+
+{
+    "categories" : [
+        {
+            "name": "Бюджетні",
+            "everagePrice": "28",
+            "cars" : [
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Комфорт",
+            "everagePrice": "32",
+            "cars" : [
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Преміум",
+            "everagePrice": "50",
+            "cars" : [
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Позашляховики",
+            "everagePrice": "45",
+            "cars" : [
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },
+                {   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                },{   
+                    "name" :"Smart Cabrio",
+                    "price": "12",
+                    "discoutPrice": [15,20,23,26],
+                    "numberOfЗassengers" : 2,
+                    "fuelConsumption" : "4-6",
+                    "doors" : 3,
+                    "fuelType": "Бензин",
+                    "transmission" : "Автомат",
+                    "motor" : 1.9,
+                    "img" : "smart.jpg"
+                }
+            ]
+        }
+    ]
+}
